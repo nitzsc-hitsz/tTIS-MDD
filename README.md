@@ -1,22 +1,22 @@
 # tTIS-MDD
 tTIS treating MDD
-jupyter notebook文件
+
+jupyter notebook
 
 ## Fig-2
 
-- [01_Fig-2.ipynb](https://github.com/nitzsc-hitsz/tTIS-MDD/blob/main/code/01_Fig-2.ipynb)：图2，绘制量表的longitudinal云雨图
+- [01_Fig-2.ipynb](https://github.com/nitzsc-hitsz/tTIS-MDD/blob/main/code/01_Fig-2.ipynb)：fIG-2, Cloud-Rain plot for scale
 
 ## Fig-3
 
-- [02_Fig-3B.ipynb](https://github.com/nitzsc-hitsz/tTIS-MDD/blob/main/code/02_Fig-3B.ipynb)：图3B，右侧杏仁核dissimialrity显著性分析，并绘制了云雨图
-- [03_Fig-3C.ipynb](https://github.com/nitzsc-hitsz/tTIS-MDD/blob/main/code/03_Fig-3C.ipynb)：图3C，计算dissimialrity得到显著区域，绘制显著区域dissimialrity的脑图和显著区域的barplot
+- [02_Fig-3B.ipynb](https://github.com/nitzsc-hitsz/tTIS-MDD/blob/main/code/02_Fig-3B.ipynb)：图3B，FC dissimilarity of right amygdala
+- [03_Fig-3C.ipynb](https://github.com/nitzsc-hitsz/tTIS-MDD/blob/main/code/03_Fig-3C.ipynb)：图3C，Spatial distribution of FC sidsimilarity
 
 ## Fig-4
 
-- [04_Fig-4A.ipynb](https://github.com/nitzsc-hitsz/tTIS-MDD/blob/main/code/04_Fig-4A.ipynb)：图4A，分析显著的FC变化，绘制云雨图
-- [05_Fig-4B.ipynb](https://github.com/nitzsc-hitsz/tTIS-MDD/blob/main/code/05_Fig-4B.ipynb)：图4B，和量表的相关性，对比responder差异
-
+- [04_Fig-4A.ipynb](https://github.com/nitzsc-hitsz/tTIS-MDD/blob/main/code/04_Fig-4A.ipynb)：图4A，Network FC change
+- [05_Fig-4B.ipynb](https://github.com/nitzsc-hitsz/tTIS-MDD/blob/main/code/05_Fig-4B.ipynb)：图4B，Correlation with scales, and group difference between responders and non-responder
 ## Fig-5
 
-- [06_Fig-5B.ipynb](https://github.com/nitzsc-hitsz/tTIS-MDD/blob/main/code/06_Fig-5B.ipynb)：图5B，进行聚类分析，绘制折线图和质心图。图5D云雨图。图5E，绘制量表相关图。
-- [07_Fig-5C.ipynb](https://github.com/nitzsc-hitsz/tTIS-MDD/blob/main/code/07_Fig-5C.ipynb)：图5C：绘制聚类质心PC1得分，并spin-test检验与FC梯度、认知梯度的相似度
+- [06_Fig-5B.ipynb](https://github.com/nitzsc-hitsz/tTIS-MDD/blob/main/code/06_Fig-5B.ipynb)：图5B，Clustering anaylysis
+- [07_Fig-5C.ipynb](https://github.com/nitzsc-hitsz/tTIS-MDD/blob/main/code/07_Fig-5C.ipynb)：图5C：Event-FC spin-test
