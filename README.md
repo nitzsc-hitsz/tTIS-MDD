@@ -1,5 +1,5 @@
 # tTIS-MDD
-This study investigates the intervention effects of tTIS in treating MDD. 
+This study investigated the intervention effects of tTIS in treating MDD. 
 
 Following an acute tTIS intervention protocol of 20 minutes per session over five consecutive days, 61.3% of the 31 enrolled patients exhibited a treatment response immediately after the intervention, and 44.4% continued to meet the response criteria four weeks later. The specific interventional outcomes of tTIS were further analyzed from the perspectives of static functional connectivity and dynamic high-amplitude co-fluctuations.
 
