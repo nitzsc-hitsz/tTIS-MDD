@@ -5,3 +5,16 @@ Following an acute tTIS intervention protocol of 20 minutes per session over fiv
 
 The Jupyter notebook files in this repository contain the code of intervention effect analysis of tTIS for MDD.
 
+#1 Scale_plotting.ipynb -- The purpose of this notebook is to visualize the alteration of clinical scale scores.
+
+#2 Amygdala_FC.ipynb -- This notebook functions to assess alterations in right amygdala functional connectivity during the treatment process.
+
+#3 Network_FC.ipynb -- The purpose of this notebook is to examine post-treatment (D0 → D5-post) changes in DMN-LIM functional connectivity during the acute phase.
+
+#4 run_LEiDA.ipynb -- The purpose of this notebook is to construct the necessary data structures and conduct the LEiDA analysis.
+
+#5 LEiDA_results.ipynb -- This notebook functions to characterize the treatment-induced dynamics of LEiDA states following TIS, construct a Support Vector Classifier (SVC) framework, and predict subsequent clinical scale responses.
+
+#6 State_Plotting.ipynb -- The purpose of this notebook is to visualize the spatial distribution of LEiDA states.
+
+#7 State_sensitivity_schaefer.ipynb -- The purpose of this notebook is to compare the similarity of LEiDA states obtained from the Schaefer-100 atlas against the Schaefer-200 and Schaefer-400 results.
